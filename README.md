@@ -1,1 +1,3 @@
 # pclub
+download this AKARSHANSARAF folder and for working of this one should have java jar execuable reader . ALso one has  to download mysql and password should be emepty ie "" and then write the following lines (excluding quotes)" create database student;" click enter then "use student;" then "create table studentinfo(year int(11),name varchar(25),branch varchar(25),address varchar(25),bloodGroup varchar(25),hall varchar(25),email varchar(25),rollno integer,gender varchar(25));" .  In AKARSHANSARAF folder go to the dist and then click on AKARSHANSARAF THE JAVA INTERFAce  WILL OPEN and you can use it .for details contact me Akarshan saraf akarshans21@iitk.ac.in
+9516642287
